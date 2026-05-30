@@ -2,7 +2,7 @@
 
 Fully automated AI-powered 75 Hard tracker. Sends automatic emails every morning at **7:00 AM** and every evening at **9:00 PM** Bangladesh time.
 
-**Live demo:** *(add your Vercel link here)*
+**Live demo:75-hard-tracker-flame-psi.vercel.app
 
 ---
 
