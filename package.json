@@ -1,0 +1,8 @@
+{
+  "name": "75-hard-tracker",
+  "version": "1.0.0",
+  "description": "AI-powered 75 Hard Challenge Tracker with automatic email reminders",
+  "dependencies": {
+    "resend": "^3.2.0"
+  }
+}
